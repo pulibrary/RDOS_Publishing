@@ -12,5 +12,5 @@ Ticket incubation and non-technical documentation for the portfolio of infrastru
 - OA Waiver Database
 - Symplectic Elements (note: hosted)
 
-Open Publishing
+### Open Publishing
 - PUL Open Journal System
